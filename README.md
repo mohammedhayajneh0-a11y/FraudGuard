@@ -61,6 +61,7 @@ Traditional indicators such as purchase value or user demographics provide littl
 - Python
 - Pandas
 - Jupyter Notebook
+- VS Code
 
 ---
 
